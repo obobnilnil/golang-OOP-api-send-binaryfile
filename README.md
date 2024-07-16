@@ -17,6 +17,7 @@ use the POST method and select 'form-data' as the body type, then store the bina
 This code shows that you can send multiple files with a single API request and store them in the same array. However, 
 when using the GET method to retrieve the binary files, you can only retrieve one file at a time, which is selected by an index parameter that specifies the file in the array.
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/1bd8195f-ac59-41e7-81b9-34068d418d2e" width="900"/>
+</div>
 Golang/Gin-framework database postgresql+pgadmin
-
-
