@@ -5,7 +5,7 @@
 <H1>ReadME</H1>
 <H1>This Golang-based code demonstrates how to use the Gin framework to send multiple binary files using a hexagonal architecture.</H1>
 This is a Golang-based code that demonstrates how you can use the Gin framework to send multiple binary files using Postman. To do this,
-use the POST method and select 'form-data' as the body type, then store the binaries in a PostgreSQL database as an array of binaries.
+use the POST,PATCH method and select 'form-data' as the body type, then store the binaries in a PostgreSQL database as an array of binaries.
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/5bcbac5e-2642-4344-92cf-4c7af91949b8" alt="binaryFile" width="150"/>
